@@ -1,0 +1,20 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "A MVC tech blog. Be able to login or create a new account. Be able to create a new post and see a feed of past posts ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianCruz01/Tech-Blog.git"
+  },
+  "author": "Sebastian Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianCruz01/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/SebastianCruz01/Tech-Blog#readme"
+}
