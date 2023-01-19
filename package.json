@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/SebastianCruz01/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/SebastianCruz01/Tech-Blog#readme"
+  "homepage": "https://github.com/SebastianCruz01/Tech-Blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-session-sequelize": "^7.1.5",
+    "express-session": "^1.17.3"
+  }
 }
